@@ -14,6 +14,10 @@ let documents = {
 	],
 	anatomy: [
 		{
+			name: "Календарно-тематический план",
+			url: "documents/anatomy/Анатомия_ктп.pdf"		
+		},
+		{
 			name: "Синельников 1 том",
 			url: "documents/anatomy/sinelnikovT1.pdf"		
 		},

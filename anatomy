@@ -1,0 +1,50 @@
+[33mcommit 8210f2ca036dc85ddba0d668739b5aef8a83e85f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: imya 03 <chimaevabd@gmail.com>
+Date:   Sun Feb 20 12:01:05 2022 +0300
+
+    add documents on github
+
+A	"documents/anatomy/\320\220\320\275\320\260\321\202\320\276\320\274\320\270\321\217_\320\272\321\202\320\277.pdf"
+
+[33mcommit 89b9f99b62375ccbeec7828df21745c971aba6af[m
+Author: imya 03 <chimaevabd@gmail.com>
+Date:   Sat Feb 19 08:23:48 2022 +0300
+
+    timtablev2
+
+A	adaptive.css
+A	documents.js
+A	documents/anatomy/sinelnikovT1.pdf
+A	documents/anatomy/sinelnikovT2.pdf
+A	documents/anatomy/sinelnikovT3.pdf
+A	documents/anatomy/sinelnikovT4.pdf
+A	"documents/anatomy/\320\220\320\275\320\260\321\202\320\276\320\274\320\270\321\217_\320\267\321\203\320\261\320\276\320\262.pdf"
+A	"documents/anatomy/\320\224\321\213\321\205\320\260\321\202\320\265\320\273\321\214\320\275\320\260\321\217_\321\201\320\270\321\201\321\202\320\265\320\274\320\260.pdf"
+A	"documents/anatomy/\320\234\321\213\321\210\321\206\321\213.pdf"
+A	"documents/anatomy/\320\236\321\201\321\202\320\265\320\276\320\273\320\276\320\263\320\270\321\217.pdf"
+A	"documents/anatomy/\320\237\320\270\321\211\320\265\320\262\320\260\321\200\320\270\321\202_\321\201\320\270\321\201\321\202\320\265\320\274\320\260.pdf"
+A	"documents/anatomy/\320\241\320\260\320\277\320\270\320\2751.pdf"
+A	"documents/anatomy/\320\241\320\260\320\277\320\270\320\2752.pdf"
+A	"documents/anatomy/\320\241\320\270\320\275\320\264\320\265\321\201\320\274\320\276\320\273\320\276\320\263\320\270\321\217.pdf"
+A	"documents/anatomy/\320\247\320\265\321\200\320\265\320\277.pdf"
+A	documents/biology/lections.pdf
+A	documents/biology/shedule.png
+A	documents/economy/economy.pdf
+A	documents/latin/latinsckiy_yazik_i_osnovi_medicinskoy_terminologii.pdf
+A	img/analytics.png
+A	img/arrow-left.png
+A	img/biology.png
+A	img/chemistry.png
+A	img/close_icon.png
+A	img/computer.png
+A	img/die.png
+A	img/download.png
+A	img/economy.png
+A	img/english.png
+A	img/heart.png
+A	img/money.png
+A	img/phys.png
+A	img/soon.png
+A	index.html
+A	script.js
+A	style.css

@@ -35,7 +35,7 @@ $('.lesson_name').click(function (e) {
 })
 
 
-$('.docs_discipline').click(() => {
+$('.docs_btn_block').click(() => {
 	openDocsView()
 })
 

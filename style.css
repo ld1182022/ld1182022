@@ -167,6 +167,12 @@ a {
 	height: 100vh;
 	box-shadow: -2px 0px 35px 7px rgba(20, 28, 34, 0.72);
 }
+.right_panel_lessongrid {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	height: 88vh;
+}
 
 .right_panel_top {
 	width: 100%;
@@ -233,7 +239,7 @@ a {
 .lesson_name_more {
 	font-size: 38px;
 	font-weight: 700;
-	margin: 0 0 0 12px;
+	margin: 14px 0 0 12px;
 }
 .aud {
 	font-size: 18px;
@@ -248,9 +254,30 @@ a {
 .docs_discipline {
 	font-size: 18px;
 	font-weight: 500;
-	margin: 4px 0 0 16px	;
+	margin: 4px 0 0 16px;
+	display: flex;
+	justify-content: center;
+	align-self: center;
+	letter-spacing: 1px;
 }
-
+.docs_discipline img {
+	width: 28px;
+	margin: -4px 0 0 8px;
+}
+.docs_btn_block {
+	background: #fff;
+	box-shadow: 0 6px 28px 2px rgba(60, 60, 60, 0.2);
+	padding: 12px;
+	border-radius: 8px;
+	display: flex;
+	justify-content: center;
+	align-self: center;
+	cursor: pointer;
+	transition: background .2s, margin-bottom .2s;
+}
+.docs_btn_block:hover {
+	margin-bottom: 4px;
+}
 
 
 
